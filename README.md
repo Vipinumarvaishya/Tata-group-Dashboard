@@ -47,5 +47,4 @@ The dashboard enables comparative analysis of subsidiaries, showing how each con
 
 
 
-📷 Dashboard Preview
-Example: ![Dashboard Screenshot]("C:\Users\rahul\Pictures\Screenshots\Screenshot 2025-08-30 000930.png"))
+
